@@ -17,7 +17,7 @@ A modern Python application that converts natural-language football instructions
 
 ## 🖥️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.11**
 - **PyQt5** — GUI framework
 - **Dataclasses** — For FSM model representation
 - **JSON** — For data export
@@ -33,7 +33,7 @@ A modern Python application that converts natural-language football instructions
    ```
 4. Run the app:
    ```bash
-   python fsm_planner_gui.py
+   python APP4 Fsm planner.py
    ```
 
 ---
