@@ -26,7 +26,7 @@ A modern Python application that converts natural-language football instructions
 
 ## 📦 Installation
 
-1. **Clone this repo** (or copy the script)
+1. **Clone this repository** 
 3. Install PyQt5:
    ```bash
    pip install PyQt5
@@ -75,3 +75,11 @@ These are some natural language inputs you can give the app:
 This project was built as part of the APP4 problem-based learning challenge for robotic football planning using FSMs.
 
 ---
+
+## 👥 Contributors  
+**The Team** : Thedoros CARRE, Dacshayan JEYANESHAN, Luka VUKOVIC, Thibaud TANTER, Luis RAMIREZ RAMIREZ
+
+---
+
+## 📜 License  
+This project is licensed under the **ESME License** – Free to use and modify.
