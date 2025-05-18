@@ -77,7 +77,7 @@ This project was built as part of the APP4 problem-based learning challenge for 
 ---
 
 ## 👥 Contributors  
-**The Team** : Thedoros CARRE, Dacshayan JEYANESHAN, Luka VUKOVIC, Thibaud TANTER, Luis RAMIREZ RAMIREZ
+**The Team** : Theodoros CARRE, Dacshayan JEYANESHAN, Luka VUKOVIC, Thibaud TANTER, Luis RAMIREZ RAMIREZ
 
 ---
 
